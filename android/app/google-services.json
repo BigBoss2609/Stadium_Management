@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609893959540",
+    "firebase_url": "https://saha-owner.firebaseio.com",
+    "project_id": "saha-owner",
+    "storage_bucket": "saha-owner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609893959540:android:1a0fad25c8b98020488e21",
+        "android_client_info": {
+          "package_name": "vn.drhoang.saha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609893959540-k46uhd4r4263t1i29jq6ac4nmfp70tfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWg0fwRu82nVydQlAbbRd_aUD3ZxV7f9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609893959540-k46uhd4r4263t1i29jq6ac4nmfp70tfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
