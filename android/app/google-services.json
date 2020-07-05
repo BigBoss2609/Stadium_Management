@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "609893959540",
-    "firebase_url": "https://saha-owner.firebaseio.com",
-    "project_id": "saha-owner",
-    "storage_bucket": "saha-owner.appspot.com"
+    "project_number": "101238553243",
+    "firebase_url": "https://sbd-app.firebaseio.com",
+    "project_id": "sbd-app",
+    "storage_bucket": "sbd-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:609893959540:android:1a0fad25c8b98020488e21",
+        "mobilesdk_app_id": "1:101238553243:android:d9572228481bc713d9243e",
         "android_client_info": {
           "package_name": "vn.drhoang.saha"
         }
       },
       "oauth_client": [
         {
-          "client_id": "609893959540-k46uhd4r4263t1i29jq6ac4nmfp70tfi.apps.googleusercontent.com",
+          "client_id": "101238553243-4v6bbfrsm4nnapncv8roa8fp0gj180pt.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCWg0fwRu82nVydQlAbbRd_aUD3ZxV7f9I"
+          "current_key": "AIzaSyCImPH0RavUGT6JbTCJqc0XByQEtxl-zjQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "609893959540-k46uhd4r4263t1i29jq6ac4nmfp70tfi.apps.googleusercontent.com",
+              "client_id": "101238553243-4v6bbfrsm4nnapncv8roa8fp0gj180pt.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

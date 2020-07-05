@@ -352,7 +352,7 @@ class Inform extends State<Info> {
                                   "Thông tin về App",
                                 ),
                                 subtitle: Text(
-                                  "SahaTeam",
+                                  "SBD Team",
                                   style: TextStyle(color: Colors.black54),
                                 ),
                                 leading: Icon(

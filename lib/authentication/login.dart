@@ -50,7 +50,7 @@ class _LoginState extends State<Login> {
               child: new Align(
                 alignment: Alignment.bottomCenter,
                 child: new Text(
-                  "Saha",
+                  "SBD",
                   style: TextStyle(
                     fontSize: 80.0,
                     color: Colors.white,

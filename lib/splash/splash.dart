@@ -92,7 +92,7 @@ class SplashScreenState extends State<SplashScreen> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Text(
-                    "Saha",
+                    "SBD App",
                     style: TextStyle(
                         color: Colors.white,
                         fontSize: 50,

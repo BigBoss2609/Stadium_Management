@@ -88,7 +88,7 @@ class FireBaseAuth {
           }
 
 
-            faild("Kiểm tra @gmaithử lại");
+            faild("Kiểm tra @gmail thử lại");
             return;
 
 
